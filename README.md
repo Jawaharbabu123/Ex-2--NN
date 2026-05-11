@@ -1,6 +1,6 @@
-<H3>Name:Rabin R S</H3>
-<H3>Register no:212224230213</H3>
-<H3>Date:29-04-2026</H3>
+<H3>Name: JAWAHAR BABU S</H3>
+<H3>Register no: 212224220041</H3>
+<H3>Date: 11-05-2026</H3>
 <H3>Experiment No. 2 </H3>
 <H2>Implementation of Perceptron for Binary Classification</H2> 
 
