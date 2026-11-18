@@ -1,6 +1,6 @@
 <H3>Name: JAWAHAR BABU S</H3>
 <H3>Register no: 212224220041</H3>
-<H3>Date: 11-05-2026</H3>
+<H3>Date: 18-11-2026</H3>
 <H3>Experiment No. 2 </H3>
 <H2>Implementation of Perceptron for Binary Classification</H2> 
 
